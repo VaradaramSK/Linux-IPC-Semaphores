@@ -111,13 +111,15 @@ Execute the C Program for the desired output.
 
 $ ./sem.o 
 
-![373202339-7b39e1cb-15ca-4e6a-af23-7aae33dcb28e](https://github.com/user-attachments/assets/92e950a3-5833-4159-847f-013208aed8f8)
+<img width="686" height="509" alt="image" src="https://github.com/user-attachments/assets/761d6138-8d24-4df1-8b20-9408b712b767" />
+
 
 
 $ ipcs
 
 
-![373202424-cacbf5f7-1a19-4b29-be29-b9481aedcfb5](https://github.com/user-attachments/assets/cc87cbbc-a25e-4210-af3e-f5dc4bcc1f13)
+<img width="791" height="434" alt="image" src="https://github.com/user-attachments/assets/3d655ec1-a690-43c5-a31c-5b98ad92d7e3" />
+
 
 
 
